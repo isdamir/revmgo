@@ -2,8 +2,8 @@ package revmgo
 
 import (
 	"errors"
-	"github.com/robfig/revel"
-	"labix.org/v2/mgo"
+	"github.com/revel/revel"
+	"gopkg.in/mgo.v2"
 )
 
 var (
